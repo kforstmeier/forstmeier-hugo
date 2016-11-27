@@ -1,0 +1,38 @@
+baseurl = "http://forstmeier.github.io/blog"
+title = "John Forstmeier"
+author = "John Forstmeier"
+languageCode = "en-us"
+theme = "hugo-goa"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
+[params]
+  author = "John Forstmeier"
+  intro = "Familia omnia est"
+  description = "Project lead and core developer [@CoralReefCI](https://github.com/coralreefci/)"
+  authorimage = "thon.jpg"
+
+[params.meta]
+  description = "Personal developer website"
+  keywords = "forstmeier,coralreefci,developer,golang,blog"
+
+[params.social]
+  twitter = "@forstmeier"
+  github = "forstmeier"
+
+[params.extra]
+  copyright = "Copyright 2016 John Forstmeier"
+  poweredBy = true
+  highlightJS = true
+
+[[menu.main]]
+  name = "about"
+  weight = 100
+  url = "/about/"
+
+[[menu.main]]
+  name = "blog"
+  weight = 200
+  url = "/blog/"
