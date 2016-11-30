@@ -3,10 +3,11 @@ title = "John Forstmeier"
 author = "John Forstmeier"
 languageCode = "en-us"
 theme = "hugo-goa"
+canonifyurls = true
+
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-canonifyurls = true
 
 [params]
   author = "John Forstmeier"
@@ -15,7 +16,7 @@ canonifyurls = true
   authorimage = "thon.jpg"
 
 [params.meta]
-  description = "Personal developer website"
+  description = "John Forstmeier's personal website"
   keywords = "forstmeier,coralreefci,developer,golang,blog"
 
 [params.social]
@@ -35,4 +36,4 @@ canonifyurls = true
 [[menu.main]]
   name = "blog"
   weight = 200
-  url = "/blog/"
+  url = "/posts/"
