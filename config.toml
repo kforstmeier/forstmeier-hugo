@@ -1,5 +1,5 @@
-baseurl = "http://forstmeier.github.io/blog"
-title = "John Forstmeier"
+baseurl = "http://forstmeier.github.io/buildwell"
+title = "Forstmeier"
 author = "John Forstmeier"
 languageCode = "en-us"
 theme = "hugo-goa"
@@ -11,20 +11,20 @@ publishdir = "public"
 
 [params]
   author = "John Forstmeier"
-  intro = "Familia omnia est"
-  description = "Project lead and core developer [@CoralReefCI](https://github.com/coralreefci/)"
+  intro = "Build well"
+  description = "Project lead and core developer [@Heupr](https://github.com/heupr/)"
   authorimage = "thon.jpg"
 
 [params.meta]
   description = "John Forstmeier's personal website"
-  keywords = "forstmeier,coralreefci,developer,golang,blog"
+  keywords = "forstmeier,heupr,founder,golang,blog"
 
 [params.social]
   twitter = "@forstmeier"
   github = "forstmeier"
 
 [params.extra]
-  copyright = "Copyright 2016 John Forstmeier"
+  copyright = "Copyright 2017 John Forstmeier"
   poweredBy = true
   highlightJS = true
 
@@ -33,7 +33,22 @@ publishdir = "public"
   weight = 100
   url = "/about/"
 
-[[menu.main]]
-  name = "blog"
-  weight = 200
-  url = "/posts/"
+# [[menu.main]]
+#   name = "blog"
+#   weight = 200
+#   url = "/posts/"
+#
+# [[menu.main]]
+#   name = "dev"
+#   weight = 200
+#   url = "/dev/"
+#
+# [[menu.main]]
+#   name = "books"
+#   weight = 300
+#   url = "/books/"
+#
+# [[menu.main]]
+#   name = "chess"
+#   weight = 400
+#   url = "/chess/"
