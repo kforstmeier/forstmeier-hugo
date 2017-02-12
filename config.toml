@@ -1,4 +1,4 @@
-baseurl = "http://forstmeier.github.io/buildwell"
+baseurl = "https://forstmeier.github.io/buildwell"
 title = "Forstmeier"
 author = "John Forstmeier"
 languageCode = "en-us"
