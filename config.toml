@@ -1,4 +1,4 @@
-baseurl = "https://forstmeier.github.io/buildwell"
+baseurl = "https://forstmeier.github.io/buildwell/"
 title = "Forstmeier"
 author = "John Forstmeier"
 languageCode = "en-us"
@@ -14,6 +14,7 @@ publishdir = "public"
   intro = "Build well"
   description = "Project lead and core developer [@Heupr](https://github.com/heupr/)"
   authorimage = "thon.jpg"
+  dateformat = "Feb 12,2017"
 
 [params.meta]
   description = "John Forstmeier's personal website"
