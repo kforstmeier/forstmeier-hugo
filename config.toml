@@ -2,7 +2,7 @@ baseurl = "https://forstmeier.github.io/"
 title = "Forstmeier"
 author = "John Forstmeier"
 languageCode = "en-us"
-theme = "hugo-goa"
+# theme = "hugo-goa"
 canonifyurls = true
 
 contentdir = "content"
