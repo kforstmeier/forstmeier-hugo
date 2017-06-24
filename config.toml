@@ -1,20 +1,20 @@
-baseurl = "https://forstmeier.github.io/"
+baseURL = "https://forstmeier.github.io/"
 title = "Forstmeier"
 author = "John Forstmeier"
 languageCode = "en-us"
 theme = "hugo-goa"
-canonifyurls = true
+canonifyURLs = true
 
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
 
 [params]
   author = "John Forstmeier"
   intro = "Build well"
   description = "Project lead and core developer [@Heupr](https://github.com/heupr/)"
-  authorimage = "thon.jpg"
-  dateformat = "Feb 12,2017"
+  authorImage = "thon.jpg"
+  dateFormat = "Feb 12,2017"
 
 [params.meta]
   description = "John Forstmeier's personal website"
