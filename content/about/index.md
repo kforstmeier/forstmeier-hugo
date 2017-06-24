@@ -10,11 +10,11 @@ showpagemeta = false
 +++
 
 John is the co-creator of [Heupr](https://github.com/heupr) and an
-avid [Go](https://golang.org/) developer. The project appeals to his love of
-building, problem solving, machine learning, and human optimization. He
+avid [Gopher](https://golang.org/). The project appeals to his love of
+creative engineering, machine learning, and human optimization. He
 interacts with the Heupr code base on a daily basis.
 
 In his spare time, John enjoys lifting and rowing; additionally, he is pushing
 himself to read more books and is attempting to improve his chess game.
 
-John resides in Philadelphia, PA.
+John resides in [Philadelphia, PA](http://localhost:1313/charlie).
