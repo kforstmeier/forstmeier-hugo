@@ -1,5 +1,5 @@
 +++
-categories = ["charlie"]
+categories = ["philly"]
 comments = false
 date = "2017-06-24T14:50:30-04:00"
 draft = false

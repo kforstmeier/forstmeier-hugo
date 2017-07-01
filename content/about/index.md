@@ -17,4 +17,4 @@ interacts with the Heupr code base on a daily basis.
 In his spare time, John enjoys lifting and rowing; additionally, he is pushing
 himself to read more books and is attempting to improve his chess game.
 
-John resides in [Philadelphia, PA](/charlie).
+John resides in [Philadelphia, PA](/philly).
