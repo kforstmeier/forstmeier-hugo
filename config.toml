@@ -12,7 +12,7 @@ publishdir = "public"
 [params]
   author = "John Forstmeier"
   intro = "Build well"
-  description = "Project lead and core developer [@Heupr](https://www.producthunt.com/upcoming/heupr)"
+  description = "Co-creator and core developer [@Heupr](https://www.producthunt.com/upcoming/heupr)"
   authorimage = "thon.jpg"
   dateformat = "Feb 12,2017"
 
