@@ -23,6 +23,7 @@ publishdir = "public"
 [params.social]
   twitter = "@forstmeier"
   github = "forstmeier"
+  instagram = "johnforstmeier"
 
 [params.extra]
   copyright = "Copyright 2017 John Forstmeier"
@@ -37,7 +38,7 @@ publishdir = "public"
 # [[menu.main]]
 #   name = "blog"
 #   weight = 200
-#   url = "/posts/"
+#   url = "/blog/"
 #
 # [[menu.main]]
 #   name = "writings"
