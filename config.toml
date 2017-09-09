@@ -40,16 +40,11 @@ publishdir = "public"
 #   url = "/posts/"
 #
 # [[menu.main]]
-#   name = "dev"
+#   name = "writings"
 #   weight = 200
-#   url = "/dev/"
+#   url = "/writings/"
 #
 # [[menu.main]]
-#   name = "books"
+#   name = "philosophy"
 #   weight = 300
-#   url = "/books/"
-#
-# [[menu.main]]
-#   name = "chess"
-#   weight = 400
-#   url = "/chess/"
+#   url = "/philosophy/"
