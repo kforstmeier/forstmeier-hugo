@@ -1,5 +1,5 @@
 <section id="main-menu-pane" class="row text-center main-menu">
   {{ range sort .Site.Menus.main }}
-  <a class="menu-item" href="{{ .URL }}">{{ .Name | lower }}</a>
+  <a class="menu-item" href="{{ .URL }}">| {{ .Name | lower }} |</a>
   {{ end }}
 </section>
