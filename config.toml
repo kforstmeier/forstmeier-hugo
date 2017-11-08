@@ -24,6 +24,7 @@ publishdir = "public"
   twitter = "@forstmeier"
   github = "forstmeier"
   instagram = "johnforstmeier"
+  email = "john.forstmeier@gmail.com"
 
 [params.extra]
   copyright = "Copyright 2017 John Forstmeier"
