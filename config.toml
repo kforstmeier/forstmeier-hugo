@@ -12,7 +12,7 @@ publishdir = "public"
 [params]
   author = "John Forstmeier"
   intro = "Build well"
-  description = "Co-creator and core developer [@Heupr](https://heupr.io/)"
+  description = "Co-creator and core developer at [Heupr](https://heupr.io/)"
   authorimage = "thon.jpg"
   dateformat = "Feb 12,2017"
 
