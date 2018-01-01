@@ -27,7 +27,7 @@ publishdir = "public"
   email = "john.forstmeier@gmail.com"
 
 [params.extra]
-  copyright = "Copyright 2017 John Forstmeier"
+  copyright = "Copyright 2018 John Forstmeier"
   poweredby = true
   highlightjs = true
 
