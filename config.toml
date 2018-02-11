@@ -23,6 +23,8 @@ publishdir = "public"
 [params.social]
   twitter = "@forstmeier"
   github = "forstmeier"
+  devto = "forstmeier"
+  # angellist = "forstmeier"
   instagram = "johnforstmeier"
   email = "john.forstmeier@gmail.com"
 
