@@ -11,8 +11,8 @@ showpagemeta = false
 
 John is the co-creator of [Heupr](https://heupr.io/) and an avid
 [Gopher](https://golang.org/). The project appeals to his love of creative
-engineering, machine learning, and human optimization. He interacts with the
-Heupr code base on a daily basis.
+problem solving and human optimization. He interacts with the Heupr code base
+on a daily basis.
 
 In his spare time, John enjoys lifting and yoga; additionally, he is pushing
 himself to read more books and is periodically attempting to improve his chess
