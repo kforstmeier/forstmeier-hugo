@@ -12,13 +12,13 @@ publishdir = "public"
 [params]
   author = "John Forstmeier"
   intro = "Build well"
-  description = "Co-creator and software developer at [Heupr](https://heupr.io/)"
+  description = "Co-creator and software engineer at [Heupr](https://heupr.io/)"
   authorimage = "thon.jpg"
   dateformat = "Feb 12,2017"
 
 [params.meta]
   description = "John Forstmeier's personal website"
-  keywords = "forstmeier,heupr,founder,creator,developer,golang,blog"
+  keywords = "forstmeier,heupr,founder,creator,software,engineer,golang,blog"
 
 [params.social]
   twitter = "@forstmeier"
