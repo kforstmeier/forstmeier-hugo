@@ -1,17 +1,17 @@
 <header class="row text-left title">
-  <h1 class="title">{{ .Title }}</h1>
+  <h1 class="emperor">{{ .Title }}</h1>
 </header>
-<section id="category-pane" class="row meta">
+<section id="category-pane" class="row meta silver">
   {{ if ne .Params.showpagemeta false }}
   <div class="col-md-12">
-    <h6 class="text-left meta">
+    <h6 class="text-left meta silver">
       PUBLISHED ON {{ .Date.Format .Site.Params.dateformat | upper }}
       {{ $total := len .Params.categories }}
       {{ if gt $total 0 }}
       —
       {{ $total := sub $total 1 }}
       {{ range $i, $cat := sort $.Params.categories }}
-      <a class="meta" href="{{ "/categories/" | relURL }}{{ $cat | urlize }}">{{ $cat | upper }}</a>{{ if lt $i $total }}, {{ end }}
+      <a class="meta copper-rose" href="{{ "/categories/" | relURL }}{{ $cat | urlize }}">{{ $cat | upper }}</a>{{ if lt $i $total }}, {{ end }}
       {{ end }}
       {{ end }}
     </h6>
@@ -23,16 +23,16 @@
     {{ .Content }}
   </div>
 </section>
-<section id="tag-pane" class="row meta">
+<section id="tag-pane" class="row meta silver">
   {{ if ne .Params.showpagemeta false }}
   <div class="col-xs-12 col-md-12">
-    <h6 class="text-right meta">
+    <h6 class="text-right meta silver">
       {{ $total := len .Params.tags }}
       {{ if gt $total 0 }}
       TAGS:
       {{ $subtotal := sub $total 1 }}
       {{ range $i, $tag := sort $.Params.tags }}
-      <a class="meta" href="{{ "/tags/" | relURL }}{{ $tag | urlize }}">{{ $tag | upper }}</a>{{ if lt $i $subtotal }}, {{ end }}
+      <a class="meta silver" href="{{ "/tags/" | relURL }}{{ $tag | urlize }}">{{ $tag | upper }}</a>{{ if lt $i $subtotal }}, {{ end }}
       {{ end }}
       {{ end }}
     </h6>
