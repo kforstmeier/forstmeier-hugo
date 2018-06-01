@@ -28,8 +28,8 @@ html {
 }
 
 iframe {
-    display:block;
-    width:100%;
+    display: block;
+    width: 100%;
 }
 
 a,
@@ -43,6 +43,12 @@ a:link {
 .tundora {
     color: #444444;
 }
+
+/* 151515 cod gray */
+/* b5e853 conifer (lime green) */
+/* ffcc00 supernova (yello-orange) */
+/* ff9800 orange peel */
+/* 99cc66 wild willow (sherbert green) */
 
 .copper-rose,
 a.copper-rose {
