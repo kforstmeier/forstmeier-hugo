@@ -1,11 +1,12 @@
 <section id="list-pane" class="row list">
-  <ul >
+  <ul>
     {{ range .Data.Pages.ByPublishDate }}
     <li class="list-entry">
       <a class="list-entry-link" href="{{ .Permalink }}">{{ .Title }}</a>
-      <p class="meta silver">
+      <p class="meta">
         {{ .Date.Format .Site.Params.dateformat | upper }}
         <span class="copper-rose">
+        {{ if isset .Params "categories" }}
         {{ $total := len .Params.categories }}
         {{ if gt $total 0 }}
         —
@@ -14,9 +15,10 @@
         <a class="copper-rose" href="{{ "/categories/" | relURL }}{{ $cat | humanize | urlize }}">{{ $cat | upper }}</a>{{ if lt $i $total }}, {{ end }}
         {{ end }}
         {{ end }}
+        {{ end }}
         </span>
       </p>
-      <p class="excerpt emperor">
+      <p class="excerpt">
       {{ .Description }}
       </p>
     </li>

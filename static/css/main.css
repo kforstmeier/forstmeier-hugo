@@ -10,13 +10,22 @@
     width: device-width;
 }
 
+a,
+a:hover,
+a:visited,
+a:link {
+    text-decoration: none;
+    color: #526D7A;
+    font-weight: 400;
+}
+
 body {
     font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
     width: auto;
     height: 100%;
     min-height: 100%;
     margin: 0;
-    color: #777777;
+    color: #444444;
     background-color: #FCFCFC;
 }
 
@@ -32,35 +41,9 @@ iframe {
     width: 100%;
 }
 
-a,
-a:hover,
-a:visited,
-a:link {
-    text-decoration: none;
-    color: #526D7A;
-}
-
-.tundora {
-    color: #444444;
-}
-
-/* 151515 cod gray */
-/* b5e853 conifer (lime green) */
-/* ffcc00 supernova (yello-orange) */
-/* ff9800 orange peel */
-/* 99cc66 wild willow (sherbert green) */
-
 .copper-rose,
 a.copper-rose {
     color: #966666;
-}
-
-.silver {
-    color: #BBBBBB;
-}
-
-.emperor {
-    color: #555555;
 }
 
 .container {

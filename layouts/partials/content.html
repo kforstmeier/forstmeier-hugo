@@ -1,10 +1,10 @@
 <header class="row text-left title">
-  <h1 class="emperor">{{ .Title }}</h1>
+  <h1>{{ .Title }}</h1>
 </header>
-<section id="category-pane" class="row meta silver">
+<section id="category-pane" class="row meta">
   {{ if ne .Params.showpagemeta false }}
   <div class="col-md-12">
-    <h6 class="text-left meta silver">
+    <h6 class="text-left meta">
       PUBLISHED ON {{ .Date.Format .Site.Params.dateformat | upper }}
       {{ $total := len .Params.categories }}
       {{ if gt $total 0 }}
@@ -23,16 +23,16 @@
     {{ .Content }}
   </div>
 </section>
-<section id="tag-pane" class="row meta silver">
+<section id="tag-pane" class="row meta">
   {{ if ne .Params.showpagemeta false }}
   <div class="col-xs-12 col-md-12">
-    <h6 class="text-right meta silver">
+    <h6 class="text-right meta">
       {{ $total := len .Params.tags }}
       {{ if gt $total 0 }}
       TAGS:
       {{ $subtotal := sub $total 1 }}
       {{ range $i, $tag := sort $.Params.tags }}
-      <a class="meta silver" href="{{ "/tags/" | relURL }}{{ $tag | urlize }}">{{ $tag | upper }}</a>{{ if lt $i $subtotal }}, {{ end }}
+      <a class="meta" href="{{ "/tags/" | relURL }}{{ $tag | urlize }}">{{ $tag | upper }}</a>{{ if lt $i $subtotal }}, {{ end }}
       {{ end }}
       {{ end }}
     </h6>
