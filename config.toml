@@ -12,7 +12,7 @@ publishdir = "public"
 [params]
   author = "John Forstmeier"
   intro = "Build well"
-  description = "Data Scientist at [HeavyWater](https://www.heavywater.com/)"
+  description = "Software Engineer and Data Scientist at [HeavyWater](https://www.heavywater.com/)"
   authorimage = "thon.jpg"
   dateformat = "Feb 12,2017"
 
