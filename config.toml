@@ -13,12 +13,12 @@ publishdir = "public"
   author = "John Forstmeier"
   intro = "Build well"
   description = "Software Engineer and Data Scientist at [HeavyWater](https://www.heavywater.com/)"
-  authorimage = "thon.jpg"
+  authorimage = "bridge.jpg"
   dateformat = "Feb 12,2017"
 
 [params.meta]
   description = "John Forstmeier's personal website"
-  keywords = "john forstmeier,software engineer,data scientist,open source,creator,portfolio"
+  keywords = "john forstmeier, software engineer, open source, builder, creator, portfolio"
 
 [params.social]
   twitter = "@forstmeier"
