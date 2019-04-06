@@ -4,6 +4,7 @@ author = "John Forstmeier"
 languagecode = "en-us"
 theme = "hugo-goa"
 canonifyurls = true
+googleAnalytics = "UA-137861025-1"
 
 contentdir = "content"
 layoutdir = "layouts"
