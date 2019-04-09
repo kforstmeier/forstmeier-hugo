@@ -38,3 +38,7 @@ publishdir = "public"
   name = "about"
   weight = 100
   url = "/about/"
+
+  # name = "notes"
+  # weight = 200
+  # url = "/notes/"
