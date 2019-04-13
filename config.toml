@@ -15,7 +15,7 @@ publishdir = "public"
   intro = "Build well"
   description = "Software Engineer and Data Scientist at [HeavyWater](https://www.heavywater.com/)"
   authorimage = "bridge.jpg"
-  dateformat = "Feb 12,2017"
+  dateformat = "Jan 2, 2006"
 
 [params.meta]
   description = "John Forstmeier's personal website"
@@ -26,8 +26,8 @@ publishdir = "public"
   github = "forstmeier"
   devto = "forstmeier"
   angellist = "forstmeier"
+  linkedin = "johnforstmeier"
   instagram = "johnforstmeier"
-  email = "john.forstmeier@gmail.com"
 
 [params.extra]
   copyright = "Copyright 2019 John Forstmeier"
@@ -39,6 +39,7 @@ publishdir = "public"
   weight = 100
   url = "/about/"
 
-  # name = "notes"
-  # weight = 200
-  # url = "/notes/"
+# [[menu.main]]
+#   name = "notes"
+#   weight = 200
+#   url = "/notes/"
