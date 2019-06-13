@@ -1,7 +1,0 @@
-<section id="main-menu-pane" class="row text-center menu">
-  {{ range sort .Site.Menus.main }}
-    <span class="menu-item copper-rose">|</span>
-    <a class="menu-item copper-rose" href="{{ .URL }}">{{ .Name | lower }}</a>
-  {{ end }}
-  <span class="menu-item copper-rose">|</span>
-</section>

@@ -1,45 +1,68 @@
 baseurl = "https://forstmeier.github.io/"
+languageCode = "en-us"
 title = "John Forstmeier"
-author = "John Forstmeier"
-languagecode = "en-us"
-theme = "hugo-goa"
-canonifyurls = true
+theme = "ezhil"
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 googleAnalytics = "UA-137861025-1"
 
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-
 [params]
-  author = "John Forstmeier"
-  intro = "Build well"
-  description = "Software Engineer and Data Scientist at [HeavyWater](https://www.heavywater.com/)"
-  authorimage = "bridge.jpg"
-  dateformat = "Jan 2, 2006"
-
-[params.meta]
-  description = "John Forstmeier's personal website"
-  keywords = "john forstmeier, software engineer, open source, builder, creator, portfolio"
-
-[params.social]
-  twitter = "@forstmeier"
-  github = "forstmeier"
-  devto = "forstmeier"
-  angellist = "forstmeier"
-  linkedin = "johnforstmeier"
-  instagram = "johnforstmeier"
-
-[params.extra]
-  copyright = "Copyright 2019 John Forstmeier"
-  poweredby = true
-  highlightjs = true
+  subtitle = "Build well"
+	recentPostsCount = 10
+	excludedTypes = ["page"]
+	disableDisqusTypes = ["page", "post"]
+	featherIconsCDN = true
 
 [[menu.main]]
-  name = "about"
-  weight = 100
-  url = "/about/"
+  name = "Home"
+  url = "/"
+  weight = 1
 
-# [[menu.main]]
-#   name = "notes"
-#   weight = 200
-#   url = "/notes/"
+[[menu.main]]
+  name = "Posts"
+  url = "/posts"
+  weight = 2
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 4
+
+[[params.social]]
+  name = "Github"
+  icon = "github"
+  url = "https://github.com/forstmeier"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://twitter.com/@forstmeier"
+
+[[params.social]]
+  name = "Instagram"
+  icon = "instagram"
+  url = "https://www.instagram.com/johnforstmeier"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://www.linkedin.com/in/johnforstmeier"
+
+[[params.social]]
+  name = "Dev.to"
+  icon = "terminal"
+  url = "https://dev.to/@forstmeier"
+
+[[params.social]]
+  name = "AngelList"
+  icon = "star"
+  url = "https://angel.co/forstmeier"
+
+[taxonomies]
+  tag = "tags"
