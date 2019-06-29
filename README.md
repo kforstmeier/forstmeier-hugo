@@ -1,6 +1,6 @@
 # John Forstmeier's personal website
 
-![build well](https://github.com/forstmeier/forstmeier-hugo/blob/master/static/img/build-well.png)
+> Build well
 
 ### Description
 
