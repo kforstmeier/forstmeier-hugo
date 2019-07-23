@@ -8,7 +8,7 @@ pygmentscodefencesguesssyntax = true
 googleAnalytics = "UA-137861025-1"
 
 [params]
-  subtitle = "Build well"
+  subtitle = "Build well 🛠️"
 	recentPostsCount = 10
 	excludedTypes = ["page"]
 	disableDisqusTypes = ["page", "post"]
