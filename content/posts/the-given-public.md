@@ -1,0 +1,51 @@
+---
+title: "The Given Public"
+date: 2019-08-17T11:05:50-04:00
+draft: true
+---
+
+- NOTE: this should be refined into a small series of bullet points
+  - think "Three Laws" that complement/reinforce/build on each other
+  - some of the points here can be combined into "laws"
+  - others should be expanded on in separate posts (see citizens dividend)
+
+- not original ideas
+- primarily driven henry george
+- "progress and poverty"
+- three main points
+- increase personal freedom: providing a greater capacity for self-direction and the tools and the means for establishing self-support
+-reduce arbitrary bureaucracy: positioning policies along natural lines and avoiding discretionary policy delineations
+- improve living standards: centering the importance of human life and dignity while helping our fellow man forward
+- list specific policy goals
+- land value taxation
+  - determined by value
+  - percentage possibly negotiated
+  - initially set by current demands
+  - then dictated by market value
+- municipalize natural monopolies
+  - determine basic/public needs
+  - provided free/at cost
+  - continually evaluate private competition possibility
+- citizens' dividend
+  - NOTE: split this out into a separate post; here reference that post w/ minimal description
+  - return excess land value taxation
+  - available every citizen
+  - proof w/ birth certificate/social security number/residency
+  - determine where sent (check/deposit/etc)
+  - removes fraud from system
+  - drastically reduces government programs/overhead
+  - create "elevated barrier" illegal country entrance
+- special-case social programs
+  - provided universally
+  - funded by land value tax
+  - embedded poverty assistance, cooperative relief programs
+  - universal congenital coverage, addiction treatment programs, recidivist programs
+- defense-based military
+  - defensive deployments, collaborative defensive agreements
+- environmental protection
+  - responsible resource use
+  - resource-efficient energy producers
+- radical open markets
+  - allowing open competition
+  - no government funding
+  - reduced government regulation/legislation/restrictions
