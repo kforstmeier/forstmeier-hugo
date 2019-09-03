@@ -1,22 +1,37 @@
 ---
-title: "Modern Distributism"
+title: "Applied Modern Distributism"
 date: 2019-08-17T11:19:32-04:00
 draft: true
 ---
 
-- not original idea again
-- laid out by many great thinkers
-- focusing distributism
-- private sector companion piece to public sector blog
-- outlining ways private enterprises could conduct business
+- distributism theory long established
+- concept refined defined overtime
+- many great thinkers of history
+- no credit whatsoever originality concept
+- merely overlaying ideas modern situation
 
-- distributed ownership: establish new perspectives and organizational prerogatives that aim to include all members of a group in its direction and ownership.
-- collaborative interaction: focusing on creating an environment of cooperation over strict competition both internally and externally for an organization.
-- social integration: encouraging private enterprise to build sustainably and to find ways of giving back to their local community.
+- primarily concerning discussion private sector enterprise
+- distributism could be enacted without top-down impetus
+- private entities could engage pattern own operations
+
+- several key principles of distributism considering
+- see playing into modern scenarios
+- distributed ownership:
+  - non-centralized productive resource ownership
+  - shared input on direction
+- collaborative interaction:
+  - cooperative engagements alongside competitive marketplaces
+  - encouraging niche/craftsmanship opportunities
+- social integration
+  - sustainable enterprises
+  - "giving back" local communities
 
 - individuals owning productive resources
   - exact form depends on industry/company
+  - also notable this takes different shape in "information" economies
   - sweat equity likely easiest implement
+  - taking account building "ideas"
+  - e.g. owning shares of software resources built
   - applied across most industries
   - other areas providing actual tool ownership
   - meaning if they leave they keep the tool
@@ -29,6 +44,7 @@ draft: true
   - multiple options every stage pipeline
   - "microservices" for corporate operations
   - smaller links w/ greater resiliency
+  - allows "craftsmanship" re-enter market
 - company ownership
   - similar point above
   - unify shareholder/stakeholder positions
@@ -46,3 +62,10 @@ draft: true
   - train awareness of biases, not to eliminate
   - provide equality of opportunity
   - avoid arbitrary marks, identify strengths / weaknesses in employees
+
+- distinctly possible executing distributism modern situation
+- does not conflict prevailing capitalistic marketplace operations
+- provides private entities option integration employees/communities
+- creating resilient marketplaces smaller craftworkers
+- only risk reduced value capture entity owners
+- but aligns more closely with true social justice system
