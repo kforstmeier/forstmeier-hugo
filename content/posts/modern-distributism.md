@@ -4,27 +4,30 @@ date: 2019-08-17T11:19:32-04:00
 draft: true
 ---
 
-- distributism theory long established
-- concept refined defined overtime
-- many great thinkers of history
-- no credit whatsoever originality concept
-- merely overlaying ideas modern situation
+Distributrism is a theory that has long been established and its core concepts have been refined overtime.
 
-- primarily concerning discussion private sector enterprise
-- distributism could be enacted without top-down impetus
-- private entities could engage pattern own operations
+In this piece, I am in no way taking credit for the originality of the idea from the many great thinkers of history.
 
-- several key principles of distributism considering
-- see playing into modern scenarios
-- distributed ownership:
-  - non-centralized productive resource ownership
-  - shared input on direction
-- collaborative interaction:
-  - cooperative engagements alongside competitive marketplaces
-  - encouraging niche/craftsmanship opportunities
-- social integration
-  - sustainable enterprises
-  - "giving back" local communities
+Instead, I am merely overlaying distributism's precepts into our modern world - looking at its characteristics through the modern perspective.
+
+- outline:
+- [ ] incredibly valuable economic theory
+- [ ] encourage personal/individual ownership
+- [ ] focusing building/protecting human dignity
+- [ ] alternative standing capitalism/socialism
+- [ ] broadly applicable modern environment
+
+Distributism presents a number of key principles that are particularly interesting, and fitting, when deployed in our modern context.
+
+- First is the concept of distributed ownership where non-centralized productive resources are owned by a large number of individuals sharing input on production and decision making.
+
+- Second is collaborative interaction where collaborative engagements within a competitive marketplace encourage niche production and opportunities for craftsmanship.
+
+- Third is societal integration where sustainable enterprises work to build and "give back" to local communities.
+
+These are several of the fundamental precepts of distributism.
+
+---
 
 - individuals owning productive resources
   - exact form depends on industry/company
