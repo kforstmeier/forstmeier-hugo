@@ -4,31 +4,31 @@ date: 2019-08-17T11:19:32-04:00
 draft: true
 ---
 
-Distributrism has long been established and its core concepts have been refined overtime. In this piece, I am in no way taking credit for the originality of the idea from the many great thinkers of history. Instead, I am merely overlaying distributism's precepts into our modern world - looking at its characteristics through the modern perspective.
+Distributrism has long been established [it would be good to identify a first mention and by whom] and its core concepts have been refined overtime. In this piece, I am overlaying distributism's historical precepts into our modern world - looking at its characteristics through the modern perspective.
 
-Within the spectrum of philosophical alternatives, distributism presents itself as an incredibly valuable economic theory - one in which both the fundamental value and rights of individual humans are focused on as core tenets. It is this focus, an elevation of the individual among the many, that provides such a profound alternative to the more frequently argued socialism and capitalism. Not only this, but the specific outcomes sought by the philosophy naturally meet the modern perspective on work.
+Within the spectrum of philosophical alternatives, distributism presents itself as a valuable economic theory - one in which both the fundamental value and rights of individuals are focused on as core tenets. It is this focus, an elevation of the individual among the many, that provides such a profound alternative to the more frequently argued socialism and capitalism. Not only this, but the specific outcomes sought by the philosophy naturally meet the modern perspective on work. [I think this last sentence is ambiguous.]
 
-Distributism presents a number of key principles that are particularly interesting, and fitting, when deployed in our modern context.
+Distributism presents a number of key principles that are particularly interesting, and fitting, when deployed in our contempory context.
 
 - First is the concept of distributed ownership where non-centralized productive resources are owned by a large number of individuals sharing input on production and decision making.
 - Second is mutually-beneficial interaction where collaborative engagements within a competitive marketplace encourage niche production and opportunities for craftsmanship.
 - Third is societal integration where sustainable enterprises work to build and "give back" to local communities.
 
-There is much more to the economic philosophy, but these are the several precepts that will be focused on in this piece.
+There is much more to the economic philosophy, but these are the several precepts that will be focused on in this piece.  [I would identify some of the other elements instead of just stating that there are others.]
 
-The driving distinction between distributism and its economic alternatives is the goal of placing the ownership of productive resources directly into the hands of as many individuals as practically achievable. This does not mean a centralized ownership, say by the state, where the citizens would then have indirect access through their elected officials.
+The driving distinction between distributism and its economic alternatives is the goal of placing the ownership of productive resources directly into the hands of as many individuals as practical. This is the opposite of centralized ownership, say by the state, where the citizens would then have indirect access through their elected officials.
 
-It is a direct ownership.
+It is a direct ownership.  [By whom?]
 
-How this is executed depends on the exact industry, or even company within an industry, and what the production process looks like. Looking at information technology sector as an example, one of the ways distributism would be implemented would be through a "sweat equity" system. As work is performed by individual contributors to a given project they would receive ownership shares in proportion to the work completed and software written - there are tools that currently exist[1] that would potentially facilitate these transactions. Another example of direct ownership would be the labor holding ownership of the actual tools used in production - in this case the computer on which software was written.
+How this is executed depends on the exact industry, or even company within an industry, and what the production process looks like. Looking at information technology sector as an example, one of the ways distributism would be implemented would be through a "sweat equity" system. As work is performed by individual contributors to a given project they would receive ownership shares in proportion to the work completed and software written - there are tools that currently exist[1] that would potentially facilitate these transactions. Another example of direct ownership would be the labor holding ownership of the actual tools used in production - in this case the computer on which software was written.  [Means of poduction, sure.  What about ownership of intellectual property?  Probs more relevent to today's US economy.]
 
-Different industries would require different approaches to apply this model in more granular form with some potentially being more challenging than others - examples would be operations consisting of heavy machinery or factory-like conditions.
+Different industries would require different approaches to apply this model in more granular form with some potentially being more challenging than others - examples would be operations consisting of heavy machinery or factory-like conditions.  [I strikes me that there are industries where distributism would not fit at all - semiconductore manufacture, oil production, aircraft and vehicle manufacture etc.]
 
-These could, again, be handled under a "sweat equity" agreement as an initial cut towards distributism.
+These could, again, be handled under a "sweat equity" agreement as an initial cut towards distributism.  [Maybe.]
 
 Further down the line, however, and alongside broader adoption of the philosophy in the organization, other options such as pivoting the concept of output ownership, where employees retain the rights to what they make and would sell that output to the employer, would also move the needle in the direction of distributism. This differs from current prevailing employment contracts where employees sign over all creative rights and productive ownership to their employers.
 
-Distributism also encourages the approach of smaller producers. While there is nothing inherently wrong with larger producers, and economies of scale that these operations bring often benefit the market, there is potential for a decline of the valuation of the individual in the productive process. Basically, there is a risk that employees could disappear and become "cogs in the machine." Instead, smaller producers, competing collaboratively in an open market, encourages personal ownership both of the company and of the rendered outputs.
+Distributism also encourages the approach of smaller producers. While there is nothing inherently wrong with larger producers, and economies of scale that these operations bring often benefit the market, there is potential for a decline of the valuation of the individual in the productive process. Basically, there is a risk that employees could disappear and become "cogs in the machine." Instead, smaller producers, competing collaboratively in an open market, encourages personal ownership both of the company and of the rendered outputs.  [My inclination would be to lead with the best fit sectors then go on to the harder cases.]
 
 This would be an internal change in which private entities would mentally reframe their approach in pivoting their philosophy away from marketshare capture to focusing on employee ownership distribution.
 
@@ -38,13 +38,13 @@ In doing so, this approach allows the reentry of "craftsmanship" into the market
 
 Realigning company ownership is another important facet of the position.
 
-Most modern, public companies have shareholders and stakeholders but often these two are not the same, particularly with regards to employees of said company. While employees may have eventually receive vested shares, it is typically a small fraction of the overall outstanding equity representing company ownership. Unifying these two positions when it comes to the employees of the company provides a direct and  meaningful influence on the course of the operation overall.
+Most modern, public companies have shareholders and stakeholders but often these two are not the same, particularly with regards to their employees. While employees may have eventually receive vested shares, it is typically a small fraction of the overall outstanding equity representing company ownership. Unifying these two positions when it comes to the employees of the company provides a direct and  meaningful influence on the course of the operation overall.
 
 This by no means excludes outside investors from owning shares, which is an important aspect of company formation and growth, although alternatives exist to traditional venture capital.[2]
 
 Members maintaining direct ownership is an important goal and cooperatives, where clients are owners, are also viable options.
 
-Participating in local markets is a mutually beneficial outcome from distributist operations. Integrating with businesses in the immediate, and extended, surrounding area, can generally be economically advantageous to all parties. This may not always be the case, given the requirements of the individual business and the tradeoff benefits provided by nationally or globally available members of the supply chain.
+Participating in local markets is a mutually beneficial outcome from distributist operations. Integrating with businesses in the immediate, and extended, surrounding area, can generally be economically advantageous to all parties. [A non-supported assertion.]  This may not always be the case, given the requirements of the individual business and the tradeoff benefits provided by nationally or globally available members of the supply chain.
 
 Providing local integration could be seen as more of an idealistic position sought for, and that may not be economically viable, but one worth considering when possible.
 
